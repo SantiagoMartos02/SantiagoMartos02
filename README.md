@@ -1,14 +1,15 @@
 <h1 align="center"><b>Hi , I'm Santiago Martos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Node.js
-  - MySQL
-  - SQL
-- I’m looking forward to collaborate on open source projects.
-- Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
+ I am a student in Programming Technician at the UTN (National Technological University). Java, Python, Javascript are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+* **I'm interested in Back-end Development, Android and iOS Development**
+ I'm currently learning...
+- Node.js
+- Vue.js
+- MySQL
+- SQL
+- I'm looking forward to collaborating on my own manageable projects and applications
+- Outside tech, I love to read novels, Listen to music, Instructing me to improve certain technical skills, and 🌴 explore nature outdoors.
 
 
 ### 🛠 &nbsp;Tech Stack
